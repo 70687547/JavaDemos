@@ -1,0 +1,13 @@
+# Project exclude paths
+/out/
+
+# Java
+.class
+
+# idea
+*.iml
+.idea
+
+# Eclipse
+.setting
+.project
